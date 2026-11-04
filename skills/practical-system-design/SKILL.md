@@ -15,6 +15,10 @@ description: Use when a time-limited task needs a PRD, stack choice, or implemen
 
 필수 불변 조건과 품질·최적화 목표를 구분한다. 결과 검증의 기준 입력, 검사하는 항목과 한계를 정하고, 실제 선택한 대안·이유·비용을 짧게 기록한다. 원문에 없는 정책과 미확정 담당자 답변을 만들어 내지 않는다.
 
+## 구현 전 사용자 검토
+
+구현 전에 [handoff 작성과 검토](references/HANDOFF.md)에 따라 짧은 문서를 만들고, 사용자에게 실제 내용과 미확정 사항을 검토받는다. 사용자의 검토·진행 의사가 명시되기 전에는 제품 구현이나 의존성 설치를 시작하지 않는다. 한 번 확인된 설계에 대해서는 기능마다 승인을 반복하지 않는다. 과제의 파일·양식 제한과 사용자의 직접 지시가 우선이다.
+
 ## 필요할 때만 참고
 
 - [PRD 양식과 예시](references/practical-prd/references/PRD_WORKSHEET.md)
