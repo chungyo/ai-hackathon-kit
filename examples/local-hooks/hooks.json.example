@@ -1,0 +1,18 @@
+{
+  "description": "Local practice only. This is an inactive example, not an installed hook.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 ./examples/local-hooks/session_reminder.py",
+            "timeout": 3,
+            "statusMessage": "Loading local practice reminder"
+          }
+        ]
+      }
+    ]
+  }
+}
