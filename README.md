@@ -1,4 +1,4 @@
-# AI 해커톤 시험용 작업 지침
+# AI 해커톤 시험용 스킬 모음 작업 지침
 
 실무형 과제에서 요구사항 확인, 작은 구현, 검증과 본인의 이해를 돕는 참고 자료다. 특정 결과나 합격을 보장하지 않는다. 최신 운영 공지, 시험 플랫폼 규정, 실제 과제 README가 이 자료보다 우선한다.
 
@@ -71,7 +71,3 @@ Chrome, 유선 외장 키보드·마우스, 안정적인 휴대폰 Wi-Fi, 충전
 - [Superpowers brainstorming](https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming/SKILL.md): 맥락 파악·질문·대안 비교·설계 정리 방식을 `discover-and-decide`에 시험 환경에 맞게 재구성했다. 원본 MIT 고지는 `licenses/superpowers/LICENSE`에 보존한다. 원본의 승인 게이트·별도 도구·서버 실행은 포함하지 않았다.
 - [OpenAI 추론 모델 가이드](https://developers.openai.com/api/docs/guides/reasoning-best-practices#how-to-prompt-reasoning-models-effectively): 추론 모델에는 간결한 목표·제약·성공 기준을 제시하고 사고 과정 출력을 강제하지 않는 방식을 참고했다.
 - [Anthropic 프롬프트 가이드](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#thinking-and-reasoning): 모델별 추론 지침과 검증의 차이를 참고했다. 시험에서 외부 AI 사용을 허용한다는 뜻은 아니다.
-- [Cofa 제작진 인터뷰](https://eopla.net/magazines/48041): 실무자 맥락 파악과 결과물·작업 과정·설명에 관한 제작진의 설명을 참고했다. 하이닉스의 세부 채점 기준을 확인한 것은 아니다.
-- [코파톤 참가 후기](https://5giran.com/writing/cofaton-2026/): 시간제한 아래 필요한 스킬을 선택하고 구현에 집중하는 교훈을 참고했다. 실제 시험 과제와 같다고 가정하지 않는다.
-
-로컬 참고 스킬의 프로젝트 사례·개인 경로·비공개 데이터는 포함하지 않았다.
